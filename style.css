@@ -1,0 +1,13 @@
+.container .container2{
+    width: 50%;
+    text-align: center;
+    height: 200px;
+    
+}
+.container{
+    background-color: violet;
+}
+
+.container2{
+    background-color: brown;
+}
